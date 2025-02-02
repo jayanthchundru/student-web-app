@@ -10,5 +10,3 @@ This is a **Static Web App** hosted on **Microsoft Azure** that displays the **S
 - **Azure Functions** (for the API)
 - **HTML, JavaScript** (for frontend UI)
 - **GitHub Actions** (for auto-deployment)
-
-## 📂 Project Structure
