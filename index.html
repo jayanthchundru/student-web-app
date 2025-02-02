@@ -20,7 +20,7 @@
 <script>
     async function fetchData() {
         try {
-            const response = await fetch('http://localhost:7071/api/getStudentCount'); // Local API for testing
+            const response = await fetch('https://sudent-api-functions.azurewebsites.net/api/getstudentcount'); // Local API for testing
             const data = await response.json();
 
             console.log("API Response:", data); // Debugging - Check console output
