@@ -1,6 +1,6 @@
 # student-web-app
 # Student Count Web App 📊
-
+# Intro to Cloud Computing Assignment 
 ## 🚀 Overview
 This is a **Static Web App** hosted on **Microsoft Azure** that displays the **Student Count by Country** from an **Azure SQL Database**. The web app fetches data using an **Azure Function API**.
 
